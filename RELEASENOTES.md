@@ -1,3 +1,8 @@
+## proton-core 1.4.13-p1 (2017-01-11)
+
+### Features
+* Dispatched a part of window method to Phoebe.
+
 ## proton-core 1.4.13-p0 (2016-12-27)
 
 ### Features
