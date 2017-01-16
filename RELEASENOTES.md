@@ -1,3 +1,8 @@
+## proton-core 1.3.13-p0 (2017-01-16)
+
+### Features
+* Downgrade Electron v1.3.13.
+
 ## proton-core 1.4.4-p0 (2017-01-13)
 
 ### Features
