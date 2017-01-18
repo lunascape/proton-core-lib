@@ -1,3 +1,9 @@
+## proton-core 1.4.13-p2 (2017-01-18)
+
+### Features
+* Upgrade Electron v1.4.13.
+* Reverted codes about getting context for geolocation.
+
 ## proton-core 1.3.13-p0 (2017-01-16)
 
 ### Features
