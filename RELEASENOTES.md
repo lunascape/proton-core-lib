@@ -1,3 +1,8 @@
+## proton-core 1.4.13-p4 (2017-02-10)
+
+### Features
+* Add event of context menu.
+
 ## proton-core 1.4.13-p3 (2017-02-10)
 
 ### Features
