@@ -1,3 +1,8 @@
+## proton-core 1.4.13-p3 (2017-02-10)
+
+### Features
+* Fixed the bug that window.open does not work from iframe.
+
 ## proton-core 1.4.13-p2 (2017-01-18)
 
 ### Features
