@@ -1,3 +1,8 @@
+## proton-core 1.4.13-p5 (2017-03-14)
+
+### Features
+* Update for GeoLocation.
+
 ## proton-core 1.4.13-p4 (2017-02-10)
 
 ### Features
