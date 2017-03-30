@@ -1,3 +1,9 @@
+## proton-core 1.6.2-p0 (2017-03-30)
+
+### Features
+* Upgrade Electron v1.6.2.
+* Fix the bug that cannot go back from some websites.
+
 ## proton-core 1.4.13-p5 (2017-03-14)
 
 ### Features
