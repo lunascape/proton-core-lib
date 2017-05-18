@@ -1,3 +1,8 @@
+## proton-core 1.6.2-p1 (2017-05-18)
+
+### Features
+* Fix the CI build error.
+
 ## proton-core 1.6.2-p0 (2017-03-30)
 
 ### Features
