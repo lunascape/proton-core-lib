@@ -1,3 +1,8 @@
+## proton-core 1.6.7-p0 (2017-05-18)
+
+### Features
+* Upgrade Electron v1.6.7.
+
 ## proton-core 1.6.2-p1 (2017-05-18)
 
 ### Features
