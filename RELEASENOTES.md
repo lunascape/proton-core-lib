@@ -1,3 +1,8 @@
+## proton-core 1.6.7-p4 (2017-07-04)
+
+### Features
+* Fix pdf crash bug
+
 ## proton-core 1.6.7-p3 (2017-06-28)
 
 ### Features
