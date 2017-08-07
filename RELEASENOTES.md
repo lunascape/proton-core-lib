@@ -1,3 +1,8 @@
+## proton-core 1.7.3-p0 (2017-08-07)
+
+### Features
+* Fix the window.open bug
+
 ## proton-core 1.6.7-p4 (2017-07-04)
 
 ### Features
