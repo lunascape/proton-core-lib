@@ -1,3 +1,6 @@
+## proton-core 1.7.9-p1 (2017-10-18)
+* Upgrade electron to v1.7.9
+
 ## proton-core 1.7.8-p3 (2017-09-28)
 * Upgrade electron to v1.7.8
 
