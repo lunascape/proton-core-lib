@@ -1,3 +1,8 @@
+## proton-core 2.0.0-p1 (2018-06-15)
+
+### Features
+* Include first party URL API
+
 ## proton-core 2.0.0-p0 (2018-06-01)
 * Upgrade electron to v2.0.0
 
