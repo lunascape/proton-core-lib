@@ -1,3 +1,6 @@
+## proton-core 2.0.12-p0 (2018-10-25)
+* Upgrade electron to v2.0.12
+
 ## proton-core 2.0.8-p0 (2018-09-07)
 * Upgrade electron to v2.0.8
 
