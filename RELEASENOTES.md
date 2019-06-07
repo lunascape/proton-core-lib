@@ -1,3 +1,6 @@
+## proton-core 4.2.3-p0 (2019-06-07)
+* Upgrade electron to v4.2.3
+
 ## proton-core 4.2.2-p0 (2019-05-31)
 * Upgrade electron to v4.2.2
 
