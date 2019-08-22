@@ -1,3 +1,8 @@
+## proton-core 5.0.5-p1 (2018-08-22)
+
+### Features
+* Fix ePub loading bug in Phoebe
+
 ## proton-core 5.0.5-p0 (2019-07-12)
 * Upgrade electron to v5.0.5
 
