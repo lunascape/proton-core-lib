@@ -1,3 +1,8 @@
+## proton-core 5.0.5-p2 (2018-08-23)
+
+### Features
+* Fix printing crash in Phoebe
+
 ## proton-core 5.0.5-p1 (2018-08-22)
 
 ### Features
