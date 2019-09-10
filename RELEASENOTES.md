@@ -1,3 +1,6 @@
+## proton-core 6.0.0-p0 (2018-09-10)
+* Upgrade electron to v6.0.0
+
 ## proton-core 5.0.5-p2 (2018-08-23)
 
 ### Features
