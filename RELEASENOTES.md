@@ -1,15 +1,18 @@
-## proton-core 6.0.9-p0 (2018-09-18)
+## proton-core 6.0.12-p0 (2019-10-11)
+* Upgrade electron to v6.0.12
+
+## proton-core 6.0.9-p0 (2019-09-18)
 * Upgrade electron to v6.0.9
 
-## proton-core 6.0.0-p0 (2018-09-10)
+## proton-core 6.0.0-p0 (2019-09-10)
 * Upgrade electron to v6.0.0
 
-## proton-core 5.0.5-p2 (2018-08-23)
+## proton-core 5.0.5-p2 (2019-08-23)
 
 ### Features
 * Fix printing crash in Phoebe
 
-## proton-core 5.0.5-p1 (2018-08-22)
+## proton-core 5.0.5-p1 (2019-08-22)
 
 ### Features
 * Fix ePub loading bug in Phoebe
