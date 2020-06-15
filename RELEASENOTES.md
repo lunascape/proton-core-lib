@@ -1,3 +1,6 @@
+## proton-core 7.1.4-p0 (2020-15-03)
+* Upgrade electron to v8.2.3
+
 ## proton-core 7.1.4-p0 (2020-03-24)
 * Upgrade electron to v7.1.4
 
